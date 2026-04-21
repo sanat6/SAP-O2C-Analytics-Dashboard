@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### Run Streamlit dashboard
 ```bash
-streamlit run dashboard_app.py
+python -m streamlit run dashboard_app.py
 ```
 
 ## 📊 Dashboard KPIs
