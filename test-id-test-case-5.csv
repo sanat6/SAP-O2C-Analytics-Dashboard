@@ -1,0 +1,6 @@
+﻿Test ID,Test Case,Input Condition,System Behavior,Expected Result
+T01,Peak Hour,Time = 8–10 AM,High congestion predicted,High
+T02,Off Peak,Time = 2 PM,Low congestion predicted,Low
+T03,Rain Effect,High rainfall,Congestion increases,Medium / High
+T04,Routing,High congestion node,Route avoids it,Alternate path selected
+T05,Dashboard,User input change,Updates quickly,
